@@ -1,0 +1,19 @@
+{
+  "name": "shootergame",
+  "version": "1.0.0",
+  "description": "build out a JavaScript shooting game from scratch",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajo2460/shooter-game-with-vanilla-javaScript.git"
+  },
+  "author": "Joseph Safari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajo2460/shooter-game-with-vanilla-javaScript/issues"
+  },
+  "homepage": "https://github.com/sajo2460/shooter-game-with-vanilla-javaScript#readme"
+}
